@@ -1,5 +1,10 @@
 make sure to run as admin
 
+Requirements:
+Python 3.12 or above
+
+`pip install imgui_bundle, numpy, PIL, keyboard, win32api, pyqt5, pydirectinput`
+
 tested games: 
 * Valorant
 

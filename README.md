@@ -1,3 +1,5 @@
+make sure to run as admin
+
 tested games: 
 * Valorant
 

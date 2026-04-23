@@ -7,6 +7,7 @@ Python 3.12 or above
 
 tested games: 
 * Valorant
+* Strinova
 
 Menu keybind: Insert
 
